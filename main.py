@@ -4,3 +4,18 @@ dtype = [('id', 'i4'), ('name', 'U10'), ('age', 'f4')]
 structured_array = np.fromrecords(records, dtype=dtype)
 print(structured_array['name'])
 print(structured_array['age'])
+
+
+print(structured_array['name'])
+print(structured_array['age'])
+
+
+print(structured_array['name'])
+print(structured_array['age'])
+
+
+print(structured_array['name'])
+print(structured_array['age'])
+
+
+
